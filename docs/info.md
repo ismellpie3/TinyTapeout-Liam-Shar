@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-"Inputs 1 through 7 connect to OR gates except for input 7 which also connects *directly* to output 7"
+Inputs 1 through 7 connect to OR gates except for input 7 which also connects *directly* to output 7
 
 ## How to test
 
-"When every other input (inputs 1,3,5,7) are powered, all outputs should be powered."
+When every other input (inputs 1,3,5,7) are powered, all outputs should be powered.
 
 ## External hardware
 
-"Seven Segment Display, and DIP Switch 8"
+Seven Segment Display, and DIP Switch 8
